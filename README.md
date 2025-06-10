@@ -1,6 +1,8 @@
 # Hey GitHub !
 
-My name is **Lucas Pagès**, I'm a young Back-End developer based in Berlin. I currently work as a Django Dev and System Administrator for @hydro-berlin.
+My name is **Lucas Pagès**, I'm a young Back-End developer based in Berlin. I currently work as a Django Dev and System Administrator for Hydro-Berlin.
+
+I stand for Palestine and against israeli war crimes and the genocide in occupied Palestine :watermelon:
 
 ## My work
 
@@ -9,18 +11,3 @@ I am currently working primarily on a tenant-aware API - _and self-deploying it 
 ## Contact
 
 Reach me at lavander.pages@proton.me
-
-<!--
-**LucasPages/LucasPages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
