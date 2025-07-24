@@ -2,7 +2,7 @@
 
 My name is **Lucas Pagès**, I'm a young Back-End developer based in Berlin. I currently work as a Django Dev and System Administrator for Hydro-Berlin.
 
-I stand for Palestine and against israeli war crimes and the genocide in occupied Palestine :watermelon:
+I stand with Palestine and against israeli war crimes and the genocide in occupied Palestine :watermelon:
 
 ## My work
 
