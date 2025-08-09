@@ -6,7 +6,7 @@ I stand with Palestine and against israeli war crimes and the genocide in occupi
 
 ## My work
 
-I am currently working primarily on a tenant-aware API - _and self-deploying it on a VPS_ - to manage data in the field of _Hydrogeology_, aka the study of ground water. I am primarily using Django Rest Framework and making use of `django-tenants` and `django-tenants-users` to make this happen. 
+I am currently working on the development of an API and associated front-end to manage and visualize data in the field of _Hydrogeology_, aka the study of ground water. I am primarily using Django Rest Framework for the backend and Next.js for the front-end.
 
 ## Contact
 
